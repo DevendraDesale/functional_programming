@@ -1,8 +1,11 @@
 package algorithms
 
+
 /**
   * Created by devendradesale on 31/3/16.
   */
+
+// https://www.hackerrank.com/challenges/two-strings
 object TwoString {
   def main(args: Array[String]) {
     val args1 = List(io.Source.stdin.getLines())
