@@ -4,7 +4,10 @@
 
 //https://www.hackerrank.com/challenges/fp-hello-world
 
-object Solution1 extends App {
+object HelloWorld  {
   def f() = println("Hello World")
-  f()
+
+  def main(args: Array[String]) {
+    f()
+  }
 }
